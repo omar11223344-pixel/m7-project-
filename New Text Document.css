@@ -1,0 +1,103 @@
+body{
+    background-color: #000000;
+}
+p{ text-align: center;
+font-size: 30px;
+color: gold;
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    color: aliceblue;
+    margin-top: 10px;
+    /* overflow: auto; */
+    text-shadow: 0px 0px 10px #000000;
+}
+#b1 {
+    font-size: 30PX;
+    border: white 1px ;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    color: gold;
+}
+#div1{
+text-align: center;}
+#send{
+font-size: 50px;
+background-color: rgb(61, 59, 59);
+color: whitesmoke;
+border-radius: 10px;
+margin: 10px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#follow{
+    font-size: 50px;
+    background-color: rgb(61, 59, 59);
+    color: whitesmoke;
+    border-radius: 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+    #img1{
+        width: 80px;
+        height: 80px;
+        margin-top: -135px;
+        margin-right: 580px;
+        float: right;
+        border-radius: 50%;
+    }
+    /* #div2{
+        width: 100px;
+        height: 80px;
+    } */
+    .login{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    label{
+        font-size: 28px;
+        background-color: aliceblue;
+        color: rgb(61, 59, 59);
+        border-radius: 30%;
+        text-align: center;
+    }
+    button{
+        font-size: 30PX;
+        border: white 1px ;
+        border-radius: 10px;
+        background-color: rgb(255, 255, 255);
+        color: chocolate; 
+    text-align: center;}
+    #m7{
+        font-size: 30px;
+        background-color: aliceblue;
+        color: rgb(61, 59, 59);
+        border-radius: 30%;
+    }
+    #m8{
+        font-size: 30px;
+       background-color: aliceblue;
+       color: rgb(61, 59, 59);
+       border-radius: 30%;
+       float: right;
+    }
+   #m9{
+    width: 350px;
+   display: flex;
+   justify-content: center;
+   align-items:center;
+   float:right;
+    
+
+
+   }
+    #m10{
+        width: 350px;
+        display: flex;
+        justify-content: center;
+        align-items:center
+      
+    }
+
+    
